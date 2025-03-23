@@ -61,6 +61,10 @@ article {
 .headline span {
   display: inline-block;
 }
+.center {
+  text-align: center;
+  margin: 0 auto;
+}
 ol,
 ul {
   list-style-image: none;
